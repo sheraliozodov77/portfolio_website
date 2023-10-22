@@ -28,4 +28,4 @@ Welcome to my personal portfolio website, where I showcase my professional journ
 You can visit my portfolio website by clicking https://sheraliozodov77.github.io/portfolio_website/ .
 
 ## Contact Information
-Connect with me on [LinkedIn](https://www.linkedin.com/yourprofile) for professional inquiries.
+Connect with me on [LinkedIn](www.linkedin.com/in/sheraliozodov) for professional inquiries.
